@@ -6,4 +6,8 @@ The purpose of the project was to improve my programming skills, apply concepts 
 
 ## Screenshots
 
+### Login Page
+![Login](screenshots/login_page.png)
+
 ### Home Page
+![Home](screenshots/home_page.png)
