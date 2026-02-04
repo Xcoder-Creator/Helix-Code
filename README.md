@@ -11,3 +11,9 @@ The purpose of the project was to improve my programming skills, apply concepts 
 
 ### Home Page
 ![Home](screenshots/home_page.png)
+
+### Tutorial PDFs Page
+![Tutorial PDFs](screenshots/tutorial_pdfs_page.png)
+
+### Tutorial Page
+![Tutorial](screenshots/tutorial_page.png)
